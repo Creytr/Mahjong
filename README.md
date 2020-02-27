@@ -1,0 +1,2 @@
+# Mahjong
+Mahjong in GoLang
